@@ -42,7 +42,10 @@ class Main:
                 os.mkdir('users')
                 print(e)
             lst_users = os.listdir('users')
-            lst_users.remove('.DS_Store')
+            if '.DS_Store' in lst_users:
+                lst_users.remove('.DS_Store')
+            else:
+                pass
             names = []
             emails = [] 
             phone_numbers = []
