@@ -1,0 +1,9 @@
+
+Time computing:0.8329157829284668	Numbers : 50
+Time computing:0.6092917919158936	Numbers : 100
+Time computing:0.6698188781738281	Numbers : 200
+Time computing:0.9087300300598145	Numbers : 300
+Time computing:1.3436460494995117	Numbers : 1000
+Time computing:2.9092159271240234	Numbers : 3000
+Time computing:9.426872730255127	Numbers : 10000
+Time computing:434.6245620250702s	Numbers : 100000
