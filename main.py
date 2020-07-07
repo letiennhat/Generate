@@ -114,14 +114,15 @@ class Main:
             except:
                 pass
         return json_x
-        def printf(self):
-            print(self.jsonload())
+    def printf(self):
+        print(self.jsonload())
 
 if __name__ == "__main__":
     time_start = time.time()
     n=int(input('Input n user : '))
     opject = Main(n)
     opject.jsonload()
+    opject.printf()
     with open('computational_time.txt','a') as f:
         f.write(f'\nTime computing:{time.time()-time_start}s\tNumbers : {n}')
     print(f'Time computing:{time.time()-time_start}')
