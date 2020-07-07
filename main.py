@@ -122,7 +122,7 @@ if __name__ == "__main__":
     n=int(input('Input n user : '))
     opject = Main(n)
     opject.jsonload()
-    opject.printf()
+    #opject.printf()
     with open('computational_time.txt','a') as f:
         f.write(f'\nTime computing:{time.time()-time_start}s\tNumbers : {n}')
     print(f'Time computing:{time.time()-time_start}')
