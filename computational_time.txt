@@ -8,3 +8,12 @@ Time computing:2.9092159271240234	Numbers : 3000
 Time computing:9.426872730255127	Numbers : 10000
 Time computing:434.6245620250702s	Numbers : 100000
 Time computing:2.713747024536133s	Numbers : 3
+Time computing:2.341233015060425s	Numbers : -1
+Time computing:1.4145081043243408s	Numbers : 1
+Time computing:1.2802979946136475s	Numbers : 1
+Time computing:0.5477077960968018s	Numbers : -1
+Time computing:0.500560998916626s	Numbers : -1
+Time computing:2.2286159992218018s	Numbers : 3
+Time computing:3.132521867752075s	Numbers : 10
+Time computing:2.3271780014038086s	Numbers : 3
+Time computing:2.1068918704986572s	Numbers : 3
